@@ -31,7 +31,7 @@ bool isPowerOf5(int n)
 
 int main()
 {
-    int n = 125;
+    int n = 0;
     if (isPowerOf5(n))
     {
         cout<<"True"<<"\n";
